@@ -1,6 +1,5 @@
 # Hola , me llamo Florencia Ortiz 👋
 
----
 ESTUDIANTE DE DESARROLLO DE SOFTWARE
 
 ### ❔ Sobre Mi 
