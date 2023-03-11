@@ -22,5 +22,5 @@ Me apasiona la programación y el Desarrollo Web. Soy una persona autodidacta, e
 
 ### 📫 Puedes encontrarme 
 ---
-- [Linkedin](https://www.linkedin.com/in/florencia-s-ortiz/) 👥 
+- [Linkedin](https://www.linkedin.com/) 👥 
 - [Email](mailto:florencia.ortiz096@gmail.com?) ✉ 
