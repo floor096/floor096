@@ -29,11 +29,12 @@ Disfruto programar, pero también maqueto, organizo, diseño, rompo y vuelvo a a
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=floor096&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="floor096" />
 <img alt="Flor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floor096&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-
+<!--
 ### 🔥 Racha de Contribuciones
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=floor096&theme=tokyonight)
 
+-->
 ---
 
 ### Contactame 🤝
